@@ -5,3 +5,5 @@
 *.svg
 stresstest.py
 *.txt
+webapp.py
+render_template.py
