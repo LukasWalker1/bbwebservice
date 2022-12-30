@@ -7,3 +7,4 @@ stresstest.py
 *.txt
 webapp.py
 render_template.py
+pylighting.py
